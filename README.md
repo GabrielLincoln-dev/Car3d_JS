@@ -1,11 +1,11 @@
-##PROJETO VIZUALIZAÇÃO EM 3D
+## PROJETO VIZUALIZAÇÃO EM 3D
 
 Projeto desenvolvido com foco em experiência interativa para visualização automotiva em 360° diretamente no navegador.
 
 O sistema permite ao usuário rotacionar o veículo através de múltiplos frames simulando uma visualização completa do carro, criando uma navegação fluida e intuitiva.
 
 
-🔥 ##Funcionalidades
+🔥 ## Funcionalidades
 
 Rotação 360° do veículo
 
@@ -21,7 +21,7 @@ Experiência interativa para apresentação automotiva
 
 
 
-🛠️ ##Tecnologias utilizadas
+🛠️ ## Tecnologias utilizadas
 
 HTML5
 
@@ -44,7 +44,9 @@ Organização de assets visuais
 Performance no carregamento de imagens
 
 Criação de experiências interativas para web
+
 📱 Responsividade
+
 
 O projeto foi desenvolvido para funcionar em diferentes tamanhos de tela, garantindo boa experiência tanto em dispositivos móveis quanto em desktops.
 
