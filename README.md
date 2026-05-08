@@ -7,17 +7,26 @@ O sistema permite ao usuário rotacionar o veículo através de múltiplos frame
 🔥 Funcionalidades
 
 Rotação 360° do veículo
+
 Navegação fluida entre frames
+
 Interface responsiva
+
 Compatível com desktop e mobile
+
 Carregamento otimizado de imagens
+
 Experiência interativa para apresentação automotiva
+
 
 🛠️ Tecnologias utilizadas
 
 HTML5
+
 CSS3
+
 JavaScript
+
 
 🎯 Objetivo do projeto
 
