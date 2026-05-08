@@ -5,7 +5,7 @@ Projeto desenvolvido com foco em experiência interativa para visualização aut
 O sistema permite ao usuário rotacionar o veículo através de múltiplos frames simulando uma visualização completa do carro, criando uma navegação fluida e intuitiva.
 
 
-🔥 ## Funcionalidades
+## 🔥 Funcionalidades
 
 Rotação 360° do veículo
 
@@ -21,7 +21,7 @@ Experiência interativa para apresentação automotiva
 
 
 
-🛠️ ## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 HTML5
 
@@ -31,7 +31,7 @@ JavaScript
 
 
 
-🎯 ##Objetivo do projeto
+## 🎯 Objetivo do projeto
 
 Este projeto foi desenvolvido para praticar:
 
@@ -45,12 +45,12 @@ Performance no carregamento de imagens
 
 Criação de experiências interativas para web
 
-📱 Responsividade
+Responsividade
 
 
 O projeto foi desenvolvido para funcionar em diferentes tamanhos de tela, garantindo boa experiência tanto em dispositivos móveis quanto em desktops.
 
 
-🚀 Deploy
+## 🚀 Deploy
 
 Acesse o projeto online:
