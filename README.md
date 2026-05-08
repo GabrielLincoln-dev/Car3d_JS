@@ -53,4 +53,4 @@ O projeto foi desenvolvido para funcionar em diferentes tamanhos de tela, garant
 
 ## 🚀 Deploy
 
-Acesse o projeto online:
+Acesse o projeto online: https://veiculo3d.netlify.app
