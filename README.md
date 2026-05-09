@@ -13,8 +13,6 @@ Navegação fluida entre frames
 
 Interface responsiva
 
-Compatível com desktop e mobile
-
 Carregamento otimizado de imagens
 
 Experiência interativa para apresentação automotiva
@@ -45,10 +43,6 @@ Performance no carregamento de imagens
 
 Criação de experiências interativas para web
 
-Responsividade
-
-
-O projeto foi desenvolvido para funcionar em diferentes tamanhos de tela, garantindo boa experiência tanto em dispositivos móveis quanto em desktops.
 
 
 ## 🚀 Deploy
