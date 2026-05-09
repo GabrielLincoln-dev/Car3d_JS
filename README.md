@@ -4,6 +4,8 @@ Projeto desenvolvido com foco em experiência interativa para visualização aut
 
 O sistema permite ao usuário rotacionar o veículo através de múltiplos frames simulando uma visualização completa do carro, criando uma navegação fluida e intuitiva.
 
+## obs: Atualmente a visualização só funciona com o mouse, o touch screen será adicionado em breve.
+
 
 ## 🔥 Funcionalidades
 
