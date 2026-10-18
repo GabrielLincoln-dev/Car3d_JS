@@ -50,3 +50,6 @@ Criação de experiências interativas para web
 ## 🚀 Deploy
 
 Acesse o projeto online: https://veiculo3d.netlify.app
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/37525bef-6695-4044-a205-1edd1246cbaf" />
+
